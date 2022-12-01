@@ -52219,7 +52219,7 @@ $S:0}
 A.Zt.prototype={
 $0(){var s,r,q=this.b
 if(q==="Resume"){s=document.createElement("a")
-s.href="/assets/resumes/CV_11910002.pdf"
+s.href="assets/resumes/CV_11910002.pdf"
 s.download="Suman_Mitra_Resume"
 s.click()}r=this.a
 r.ac(new A.Zp(r,q))},
